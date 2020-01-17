@@ -51,6 +51,13 @@ Compile scripts and styles:
 npm start
 ```
 
+
+Run scripts and styles:
+
+```
+npm run
+```
+
 ## Testing
 
 ###### Chrome
